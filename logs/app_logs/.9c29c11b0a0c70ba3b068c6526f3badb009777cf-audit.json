@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\Documents\\Node JS\\node-learning-api\\logs\\app_logs\\.9c29c11b0a0c70ba3b068c6526f3badb009777cf-audit.json",
+    "files": [
+        {
+            "date": 1788803834467,
+            "name": "D:\\Documents\\Node JS\\node-learning-api\\logs\\app_logs\\2026-09-07.log",
+            "hash": "0a89162fa49bc07484a598ddad6ce9c071c198125f5cab54eee32733aca469eb"
+        },
+        {
+            "date": 1788856103218,
+            "name": "D:\\Documents\\Node JS\\node-learning-api\\logs\\app_logs\\2026-09-08.log",
+            "hash": "4fcd78647a4876cdb51ebf0294bd39426772d23700df2e05a82e98633b12786e"
+        }
+    ],
+    "hashType": "sha256"
+}
